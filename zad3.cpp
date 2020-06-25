@@ -19,4 +19,4 @@ int main() {
     }
     cout << "The greatest common factor: " << a + b << "\n";
     //system("pause");
-}SSS
+}
